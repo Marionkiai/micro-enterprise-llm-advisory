@@ -1,0 +1,13 @@
+sources:
+  - name: "Central Bank of Kenya Guidelines"
+    type: "regulatory"
+    year: 2025
+    description: "Core banking, credit, and consumer protection guidelines for micro-enterprises."
+  - name: "Retirement Benefits Authority Framework"
+    type: "regulatory"
+    year: 2024
+    description: "Micro-enterprise pension and retirement savings frameworks in Kenya."
+  - name: "Kenya Revenue Authority Compliance Basics"
+    type: "tax"
+    year: 2025
+    description: "Basic tax compliance and record-keeping requirements for small businesses."
