@@ -1,8 +1,0 @@
-pypdf
-beautifulsoup4
-pyyaml
-langchain
-langchain-community
-chromadb
-sentence-transformers
-torch
